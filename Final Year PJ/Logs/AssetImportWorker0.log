@@ -224,3 +224,4 @@ Received Import Request.
 Start importing Assets/TreePack1_Free/TreePack1/Tree1/Mobile/Tree1_Mobile_Wind2.anim using Guid(6842be8229d93484f96e814ed0e37ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e39e9e52a737c4f9633b11650596660') in 0.009776 seconds 
   Import took 0.020407 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
