@@ -3440,3 +3440,4 @@ Received Import Request.
 Start importing Assets/Forest sence/sprite/Materials/probMid.mat using Guid(b58584504c740ca44a7507ce265408ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91306fec11ee6477805511ff08b8d9fb') in 0.019174 seconds 
   Import took 0.031044 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
